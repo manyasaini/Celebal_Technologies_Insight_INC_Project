@@ -20,10 +20,10 @@ I built a Power BI dashboard to analyze project performance, focusing on delays,
    - Designed a multi-page dashboard (Overview, Performance Analysis, Vertical Head Performance)  
    - Verified KPIs: Delayed Projects, WIP Aging, Positive Projects
 
-5. **Tools & Skills**  
-   - Power BI Desktop – Data Modeling, Dashboards  
-   - Excel – Source data cleaning  
-   - DAX – Variance calculations, Aging Buckets, KPI logic
+## Tools & Skills
+   - Power BI Desktop : Data Modeling, Dashboards  
+   - Excel : Source data cleaning  
+   - DAX : Variance calculations, Aging Buckets, KPI logic
 
-6. **Outcome**
+## Outcome
    
