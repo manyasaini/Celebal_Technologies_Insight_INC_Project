@@ -31,10 +31,10 @@ The final dashboard provides actionable insights for leadership to track delayed
 ## Outcome
 | Overview Dashboard | Performance Analysis |
 |-------------------|----------------------|
-| ![Overview](Dashboard_Screenshots/overview.png) | ![Performance](Dashboard_Screenshots/performance.png) |
+| ![Overview](Dashboard_Screenshots/Overview.png) | ![Performance](Dashboard_Screenshots/Performance.png) |
 
 | Vertical Head Performance |
 |---------------------------|
-| ![Vertical Head](Dashboard_Screenshots/vertical_head.png) |
+| ![Vertical Head](Dashboard_Screenshots/Vertical_Head.png) |
 
 ---
