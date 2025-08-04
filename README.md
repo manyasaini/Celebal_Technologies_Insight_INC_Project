@@ -8,8 +8,8 @@ The goal was to help leadership identify delays, monitor ongoing projects, and e
   - Removed duplicates  
   - Handled missing values  
   - Standardized date formats & project status labels
-**3. Data Transformation :**
+3. **Data Transformation :**
   - Created calculated columns for variance and WIP project aging buckets
-**4. Dashboard Creation & Validation :**  
+4. **Dashboard Creation & Validation :**  
   - Designed a multi-page dashboard (Overview, Performance Analysis, Vertical Head Performance)  
   - Verified KPIs - Delayed Projects, WIP Aging, Positive Projects 
