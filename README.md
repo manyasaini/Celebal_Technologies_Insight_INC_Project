@@ -29,4 +29,12 @@ The final dashboard provides actionable insights for leadership to track delayed
    - DAX : Variance calculations, Aging Buckets, KPI logic
 
 ## Outcome
-   
+| Overview Dashboard | Performance Analysis |
+|-------------------|----------------------|
+| ![Overview](Dashboard_Screenshots/overview.png) | ![Performance](Dashboard_Screenshots/performance.png) |
+
+| Vertical Head Performance |
+|---------------------------|
+| ![Vertical Head](Dashboard_Screenshots/vertical_head.png) |
+
+---
