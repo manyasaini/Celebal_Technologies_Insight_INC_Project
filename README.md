@@ -5,9 +5,9 @@ The goal was to help leadership identify delays, monitor ongoing projects, and e
 ## Key steps
 1. **Data Import :**  Loaded project data from Excel into Power BI Desktop  
 2. **Data Cleaning :**
-  - Removed duplicates  
-  - Handled missing values  
-  - Standardized date formats & project status labels
+- Removed duplicates  
+- Handled missing values  
+- Standardized date formats & project status labels
 3. **Data Transformation :**
   - Created calculated columns for variance and WIP project aging buckets
 4. **Dashboard Creation & Validation :**  
