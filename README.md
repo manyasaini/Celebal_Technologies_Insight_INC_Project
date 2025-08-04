@@ -1,6 +1,9 @@
 # Insights INC – Project Performance Dashboard (Power BI)
 
-I built a Power BI dashboard to analyze project performance, focusing on delays, WIP aging, and vertical head performance.
+## Project Overview
+In this project, I developed a Power BI dashboard to analyze the internal project performance of Insights INC.  
+The raw Excel data contained project timelines, statuses, and vertical head details, which required cleaning and transformation to identify delays, monitor WIP project aging, and evaluate vertical head performance.  
+The final dashboard provides actionable insights for leadership to track delayed projects, analyze performance, and make informed decisions.
 
 ## Key Steps
 
